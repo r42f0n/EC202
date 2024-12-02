@@ -1,122 +1,118 @@
 java c
-EC202 – Course test
-Microeconomics 2
-March Examinations 2022/23
-1. Consider the following two-player simultaneous-move game:
+EC202   –   Course   test 
+Microeconomics 2 
+March   Examinations   2021/22 
+1. Ram   is   faced   with   a   lottery   which   pays   £100   in   a   good   state   and   £0   in   a   bad   state   with   each state   occuring   with   equal   probability.    Ram   says   he   prefers   to   receive   £60   for   certain   rather than   taking   the   lottery.   Which   statement   is   true? (6 marks) 
+A.      Ram   is   risk   loving.
+B.      Ram   is   risk   averse.
+C.      Ram   is   risk   neutral.
+D.      Ram   is   not   risk   loving.
+E.    We   have   insuﬃcient   information   to   determine   whether   Ram   is   risk   averse,   risk   loving   or   risk   neutral.
+2. Consider   Hugo   whose   preferences   can   be   represented   by   the   following   utility   function:
 
-Which statement is true? (6 marks)
-A. There is one unique pure-strategy Nash equilibrium (U, L).
-B. There are two pure-strategy Nash equilibria of the game – (U, L) and (D, R) – and one mixed-strategy Nash equilibrium.
-C. There are infinitely many Nash equilibria of this game.
-D. All outcomes of the game are Pareto efficient.
-E. There are exactly two Nash equilibria of the game.
-2. Consider the following three-player simultaneous-move game:
+where   x   is   wealth.   Which   statement   is   true? (6 marks) 
+A.    Hugo’s   coeﬃcient   of   relative    risk   aversion   is   the   same   regardless   of   his   level   of   wealth.
+B.    Hugo’s   coeﬃcient   of   absolute      risk   aversion   is   constant.
+C.    Hugo   would   choose   £30   for   certain   over   a   lottery   that   would   pay   £100   or   £0   with   equal probability.
+D.    Hugo   would   choose   £20   for   certain   over   a   lottery   that   would   pay   £100   or   £0   with   equal probability.
+E.    The   utility   function   can   represent   both   risk   averse   and   risk   loving   preferences.
+3. Consider   a   game   with   two   players,   L =   {1,   2},   with   actions   S1    = S2    ={Rock,   Paper,   Scissors,   Well}.   The   Rock   (R)   beats   Scissors   (S)   and   is   beaten   by   Paper   (P)      and   Well   (W);   P   beats   R   and   W   and   is   beaten   by   S;   S   beats   P   and   is   beaten   by   R   and   W   ;   W   beats   R   and   S   and   is   beaten   by   P.    Every   action   draws   with   itself.    A   win   gives   a   player   a payoﬀ   equal   to   1,   lose   gives   -1,   and   a   tie   gives   a   payoﬀ   equal   to   0.   The   normal-form   representation   takes   the   following   form.	
 
-(6 marks)
-A. There are exactly two Nash equilibria of the game.
-B. There are exactly three Nash equilibria of the game.
-C. There are infinitely many Nash equilibria of the game.
-D. There is a mixed-strategy Nash equilibrium of the game in which Player 1 plays U or D with equal probability; Player 2 plays L or R with equal probability and Player 3 plays B with probability 1.
-E. Action R is a strictly dominant strategy.
-3. Ram is faced with a lottery which pays £100 in a good state and £k in a bad state with each state occurring with equal probability and k < 100. Ram’s utility function is u(x) = √x. For which value of k is Ram indifferent between taking the lottery and receiving £81 for certain.       (6 marks)
-A. We have insufficient information to answer this question.
-B. k = £54.
-C. k = £64.
-D. k = £44.
-E. k = £74.
-4. Consider Xiaoming whose preferences can be represented by the following utility function:
-u(x) = ln(x + 1),
-where x is wealth. Which statement is true? (6 marks)
-A. Xiaoming’s coefficient of absolute risk aversion is decreasing in wealth, and his coefficient of relative risk aversion is increasing in wealth.
-B. Xiaoming’s coefficient of absolute risk aversion is constant, and his coefficient of relative risk aversion is increasing in wealth.
-C. Xiaoming is risk neutral.
-D. Xiaoming would choose a lottery that would pay £100 or £0 with equal probability over receiving £25 for certain.
-E. Xiaoming would choose a lottery that would pay £100 or £0 with equal probability over receiving £20 for certain.
-5. Consider a simultaneous-move game with two players, L = {1, 2}, with actions S1 = S2 = {Rock, Paper, Scissors, Fire, Water}. The Rock (R) beats Scissors (S) and Water (W) and is beaten by Paper (P) and Fire (F); P beats R and W and is beaten by S and F; S beats P and W and is beaten by R and F; F beats R, P and S and is beaten by W; W beats F and is beaten by R, P and S. Every action draws with itself. A win gives a player a payoff equal to 1, lose gives -1, and a tie gives a payoff equal to 0. The normal-form. representation of the game takes the following form.
+Which   of   the   following   statements   is   true? (6 marks) 
+A.    There   is   a   unique   Nash   equilibrium   in   which   each   player   mixes   between   all   actions   with   equal   probability.
+B.    There   is   no   Nash   equilibrium   of   this   game.
+C.    There   are   inﬁnitely   many   Nash   equilibria.
+D.    We   cannot   say   whether   there   is   a   Nash   equilibrium   or   Nash   equilibria.
+E.    There   are   no   pure-strategy   Nash   equilibria   of   this   game.
+4. Consider   the   following   game:
 
-Which of the following statements is true? (6 marks)
-A. There is a Nash equilibrium in which each player mixes between all actions with equal probability.
-B. There is no Nash equilibrium of this game.
-C. Action W cannot be played in any Nash equilibrium.
-D. There is a Nash equilibrium in which each player mixes between R, P, S and F with equal probability, and where W is played with zero probability.
-E. There is a Nash equilibrium in which each player play R, P and S, respectively, with probability 9/1 and in which they play F and W, respectively, with probability 3/1.
-6. Consider a private-value auction in which two bidders, i = 1, 2, participate. Suppose the bidders valuations of the object being auctioned (vL and vH) take values 100 and 200, respectively, with equal probability (these are i.i.d realisations of a random variable). Suppose the seller has chosen a first-price sealed-bid auction for the object. The bidders can select any bid, bi ∈ R+. Which statement is true? (6 marks)
-A. There is a pure-strategy Bayes-Nash equilibrium in which each type of bidder selects truthful bids – (vL → 100, vH → 200).
-B. There is a pure-strategy Bayes-Nash equilibrium in which the low valuation type bids 100, and the high valuation type bids 150 – (vL → 100, vH → 150).
-C. The Bayes-Nash equilibrium is Pareto efficient.
-D. The low valuation type has no weakly dominant strategy.
-E. There is no Bayes-Nash equilibrium.
-7. Consider the following two-player simultaneous-move game:
+Which   statement   is   true? (6 marks) 
+A.    There   are   two   pure-strategy   Nash   equilibria   of   this   game   –    (U,   L)   and   (M,   M) –   but neither   are   Pareto   eﬃcient.
+B.    There   is   only   one   pure-strategy   Nash   equilibrium   –    (M,   M) –   and   this   is   Pareto   eﬃcient.
+C.    There   are   two   pure-strategy   Nash   equilibria   of   this   game   –    (U,   L)   and   (M,   M) –   both   of which   are   Pareto   eﬃcient.
+D.    The   only   Pareto   eﬃcient   outcome   of   the   game   is      (D,   R).
+E.    There   are   two   pure-strategy   Nash   equilibria   of   this   game   –    (U,   L)   and   (M,   M) –   but only   the   latter   is   Pareto   eﬃcient.
+5. Consider   the   following   game:
+Which   of   the   following   statements   is   true? (6 marks) 
+A.    R   weakly   dominates   L.
+B.    There   are   only   two   Nash   equilibria   of   the   game.
+C.    There   are   two   pure-strategy   Nash   equilibria   of   the   game   –    (D,   M)   and   (U,   R)   –   both   of which   are   Pareto   eﬃcient.
+D.    There   is   a   mixed-strategy   Nash   equilibrium   in   which   Player   2   plays   R   with   probability ρ2    =   1   and   Player   1   plays   U   with   probability   ρ   1 = 10/1 .  
+E.    There   is   only   one   Pareto   eﬃcient   outcome   of   the   game.
+6. Consider   the   following   game:
 
-Each player discounts the future by δ ∈ [0, 1]. If the game is repeated over time, we assume deviation from a cooperative outcome is followed by defection forever or until the game ends. Which statement is true? (6 marks)
-A. If the game is repeated for a finite number of periods, the outcome (M, M) can be sustained in all but the last period.
-B. The stage game has no mixed-strategy Nash equilibrium.
-C. In the infinitely-repeated game, cooperation on (M, M) can be sustained if and only if δ > 4/1.
-D. In the infinitely-repeated game, cooperation on the outcome (M, M) can be su代 写EC202 Microeconomics 2 March Examinations 2022/23SQL
-代做程序编程语言stained for δ > 2/1.
-E. There is no pure-strategy Nash equilibrium in the stage game.
-8. Consider the following two-player simultaneous-move game:
+Which   statement   is   true? (8 marks) 
+A.    There   is   one   unique   pure-strategy   Nash   equilibrium   (B,   X).
+B.    There   are   two   Nash   equilibria   of   the   game   –    (B,   X)   and   (B,   Y).
+C.    There   are   inﬁnitely   many   Nash   equilibria   of   this   game.
+D.    All   outcomes   of   the   game   are      Pareto   eﬃcient.
+E.    There   is   no   pure-strategy   Nash   equilibrium   of   the   game.
+7. Consider   the   following   game:
 
-Which of the following statements is true? (6 marks)
-A. The game has infinitely many Nash equilibria.
-B. There are only two Nash equilibria of the game.
-C. There are exactly two Pareto efficient outcomes of the game.
-D. There is a mixed-strategy Nash equilibrium in which Player 2 plays R with probability ρ2 = 1 and Player 1 plays U with probability ρ1 = 10/1.
-E. There are exactly three Nash equilibria of the game.
-9. Consider the following two-player simultaneous-move game:
+Suppose   the   game   is   played   5   times.    How   many   subgames   are   there? (6 marks) A.    406,901B.    406,911C.      250,000D.    408,911E.    251,000
+8. Consider   the   following   “war   of   attrition”   game,   which   is   played   over   discrete   periods   of   time.   Player   1   and   Player   2   can   play   Stop   (S)   or   Continue   (C).   We   can   represent   the   game   in normal   form   as   follows:
 
-where k > 0. Which statement is true? (8 marks)
-A. There is at most two pure-strategy Nash equilibria of the game.
-B. There are infinitely many Nash equilibria of the game.
-C. Outcomes (U, L) and (D, R) are Pareto efficient if and only if k > 7.
-D. Action L weakly dominates R.
-E. There is a mixed-strategy Nash equilibrium of the game.
-10. Consider the following two-player simultaneous-move game:
+The   length   of   the   game   depends   on   the   players’   behaviour.   Speciﬁcally,   if   one   or   both   players select   S   in   a   period,   then   the   game   ends   at   the   end   of this   period.    Otherwise,   the   game   continues   into   the   next   period.   Suppose   the   players   discount   payoﬀs   between   periods according   to   the   discount   factor   δ   ∈   (0, 1).   What   is   the   probability   that   the   game   will   be   played   exactly   three   times   if   the   players   play   the   mixed-strategy   Nash   equilibrium? (8 marks) 
+A.       4096/565.
+B.       4096/566.
+C.       4096/567.
+D.       4096/568.
+E.       4096/569.
+9. Consider   an   individual   facing   the   following   gamble.   With   probability   ρ   = 0.2   they   will   end    up   in   a   “bad   state”   and   consume   xb      =£0   and   with   probability   1 − ρ = 0.8   they   will   consume xg      =£1,   000   in   a   “good   state”.    The   individual’s   utility   can   be   represented   as   u(xi   ) = √xi   ,   where   i   = b,g.    Suppose   there   is   an   insurance   contract   available   to   the   individual   oﬀering   K units of insurance for a premium of 5/2 K. How much insurance will the individual buy? (6 marks) 
+A.    7/1500
+B.      1000
+C.      1100
+D.      1200
+E.      0
+10. Consider   the   following   simultaneous-move   three-player   game:
 
-Which statement is true? (6 marks)
-A. There is exactly one mixed-strategy Nash equilibrium of the game.
-B. The number of Pareto efficient outcomes of the game does not exceed five.
-C. Action M weakly dominates action R.
-D. There are exactly five pure-strategy Nash equilibria of the game.
-E. Action X is strictly dominated.
-11. Consider the following “war of attrition” game, which is played over discrete periods of time. Player 1 and Player 2 can play Stop (S) or Continue (C). We can represent the game in normal form. as follows:
+The   three   players   make   their   choices   simultaneously   and   independently.   The   sets   of   actions available   to   Player   1,   Player   2   and   Player   3,   respectively,   are   S1    =   {U,   D},   S2    =   {L,   R}   and S3    =  代 写EC202 Microeconomics 2 March Examinations 2021/22Prolog
+代做程序编程语言 {A,   B}.   The   payoﬀs   are   listed   in   the   table   above   where   the   ﬁrst   entry   refers   to   the payoﬀ   to   Player   1,   the   second   to   Player   2   and   the   third   to   Player   3.   A   proﬁle   of   actions   is written   (x,y,   z) where   the   ﬁrst   entry   is   the   action   of   Player   1,   the   second   entry   is   the   action    of   Player   2   and   the   third   entry   is   the   action   of   Player   3.   Which   statement   is   true? (8 marks) 
+A.    There   are   only   two   Nash   equilibria   of   the   game   –    {(D,   L,   A)   and   (U,   R,   A)}.
+B.    There   is   no   Nash   equilibrium   of   the   game.
+C.    There   are   inﬁnitely   many   Nash   equilibria   of   the   game.
+D.    There   are   three   Nash   equilibria   of   the   game.
+E.    There   is   one   unique   Nash   equilibrium   of   the   game   –    {(D,   L,   A)}.
+11. Consider   the   following   dynamic   game   of   incomplete   information:
 
-The length of the game depends on the players’ behaviour. Specifically, if one or both players select S in a period, then the game ends at the end of this period. Otherwise, the game continues into the next period. Suppose the players discount payoffs between periods according to the discount factor δ ∈ (0, 1). Which statement is true? (8 marks)
-A. There are infinitely many subgames of the game.
-B. There is no pure-strategy Nash equilibrium of the game.
-C. The expected payoff to each player in the mixed-strategy Nash equilibrium is strictly negative.
-D. No equilibrium action is consistent with play that proceeds beyond the first period.
-E. Action S strictly dominates action C.
-12. Consider Paula who is facing the following gamble. With probability ρ = 5/1 she will end up in a “bad state” and consume xb =£3 and with probability 1 − ρ = 5/4 she will consume xg =£100 in a “good state”. Paula’s utility can be represented as u(xi) = ln xi, where i = b, g. Suppose there is an insurance contract available to the individual offering K units of insurance for a premium of 5/2K. How much insurance will Paula buy? (6 marks)
-A. K = 36
-B. K = 46
-C. K = 56
-D. K = 66
-E. K = 76
-13. Consider the following simultaneous-move three-player game:
+There   are   two   players   in   the   game   –   Player   E   and   Player   P.   The   timing   of   the   game   is   as follows.    Nature   draws   a   type   ti   ,   from   the   set   of   types,   T   =   {t1   ,   t2   }.    Each   type,   t1    and   t2      are   drawn   with   equal   probability.    Player   E   observes   their   type,   ti   ,   and   chooses   a   message   mi from   a   set   of   messages,   M   =   {m1   ,   m2   }.    Player   P   observes   mi      (but   not   ti   )   and   then   chooses an   action   ak      from   a   set   of   feasible   actions   A   =   {a1   ,   a2   }.    The   payoﬀs   from   each   action   are illustrated   in   the   extension   form   representation   of   the   game   above   as   pairs      (x,   y) with   the ﬁrst   entry   denoting   the   payoﬀ to   Player   E   and   the   second   the   payoﬀ to      Player   P.    Which   of the   folloing   statements   is   true? (8 marks) 
+A.    There   is   a   separating   equilibrium   in   which   a   type   t1      Player   E   selects   m2    and   in   which   a type   t2      Player   E   selects   m1   .
+B.    There   is   a   separating   equilibrium   in   which   a   type   t1      Player   E   selects   m1    and   in   which   a type   t2      Player   E   selects   m2   .
+C.    There   is   a   pooling   equilibrium   in   which   both   types   of   Player   E   select   m2   .
+D.    There   is   no   perfect   Baysian   equilibrium.
+E.    There   is   a   unique   separating   equilibrium   in   which   a   type   t1      Player   E   selects   m2    and   in which   a   type   t2    Player   E   selects   m1   .
+12. Consider   the   following   prisoner’s   dilemma:
 
-Which statement is true? (8 marks)
-A. There are three pure-strategy Nash equilibria of the game.
-B. There is no Nash equilibrium of the game.
-C. There is a finite number of Nash equilibria of the game.
-D. There are exactly three Nash equilibria of the game.
-E. There is one unique Nash equilibrium of the game – {(D, L, A)}.
-14. Consider the following dynamic game of incomplete information:
+where   C   is   cooperate   and   D   is   defect.   Suppose   the   two   players   alternate   between   actions   D   and   C.    In   period   t,   Player   1   plays   C   and   Player   2   plays   D;   in   period   t + 1,    Player   1   plays   D   and   Player   2   plays   C.   Assume   that   Player   1   and   Player   2   discount   the   future   by   δ   ∈   [0, 1).
+For   which   values   of   the   discount   factor   δ   will   the   players   be   able   to   sustain   cooperation   if   the game   is   repeated   inﬁnitely   many   times?   Assume   that   any   deviation   from   the   alternating
+equilibrium   is   followed   by   inﬁnite   defection   (grim-trigger). (8 marks) A.      δ   ∈ [3/1, 1)B. δ   ∈ [4/1, 1) C. δ   ∈ [8/1, 1) D. δ   ∈ [2/1, 1) E. δ   ∈ [10/1, 1) 
+13. Consider   the   following   game   of   chicken:
 
-There are two players in the game – Player E and Player P. The timing of the game is as follows. Nature draws a type ti, from the set of types, T = {t1, t2}. Each type, t1 and t2 are drawn with equal probability. Player E observes their type, ti, and chooses a message mi from a set of messages, M = {m1, m2}. Player P observes mi (but not ti) and then chooses an action ak from a set of feasible actions, A = {a1, a2}. The payoffs from each action are illustrated in the extensive form. representation of the game above as pairs (x, y) with the first entry denoting the payoff to Player E and the second the payoff to Player P. For which values of k is there a separating equilibrium in which a type t1 Player E selects m2 and in which a type t2 Player E selects m1? (8 marks)
-A. No values of k.
-B. All values of k.
-C. k ≥ 1.
-D. k ≥ 0.
-E. k ≥ -1.
-15. Consider the following prisoner’s dilemma:
+Suppose   an   ‘umpire’   proposes   the   following   mechanism:    a   random   device   selects   one   cell   in   the   game   matrix   with   the   following   probabilities:
 
-where C is cooperate and D is defect. Suppose the two players adopt a cooperative strategy which involves alternating between actions D and C. In period t, Player 1 plays C and Player 2 plays D; in period t + 1, Player 1 plays D and Player 2 plays C. Assume that Player 1 and Player 2 discount the future by δ = 2/1. We also assume that any deviation from the alternating equilibrium is followed by infinite defection (grim-trigger). For which values of k can the players sustain the cooperative outcome? (8 marks)
-A. k ≤ 8.
-B. k ≤ 7.
-C. k ≤ 6.
-D. k ≤ 5.
-E. k ≤ 4.
+When   a   cell   is   selected,   each   player   is   told   by   the   ‘umpire’   to   play   corresponding   to   pure strategy.    Each   player   is   told   what   to   play   but   not   what   the   other   player   is   told   although   the   probability   distribution   is   common   knowledge.   The   payoﬀs   to   the   payoﬀs   is   a   pair   (x,   y), 
+where   the   ﬁrst   entry   is   the   payoﬀ to   Player   1   and   the   second   is   the   payoﬀ to      Player   2.    Which statement   is   true? (6 marks) 
+A.    The   payoﬀs   to   the   players   in   the   correlated   equilibrium   is (3/2, -3/2),   and   in   the   mixed   strategy   it   is (-3/2, -1).
+B.    The   payoﬀs   to   the   players   in   the   correlated   equilibrium   is (3/2, 3/2),   and   in   the   mixed   strategy   it   is (-8/7, -7/8).
+C.    The   payoﬀs   in   the   mixed-strategy   Nash   equilibrium   exceed   those   in   the   correlated equilibrium   for   both   players.
+D.    The   payoﬀ   in   the   mixed-strategy   Nash   equilibrium   exceed   those   in   the   correlated equilibrium   for   Player   1.
+E.    The   mechanism   proposed   by   the   ‘umpire’   cannot   be   sustained.
+14. Consider   the   following   game:
+
+Suppose   this   game   is   played   T   times.   Which   statement   is   true? (6 marks) 
+A.    The   total   number   of   information   sets   belonging   to   Player      1,   Player   2   and   Player   3   exceed   the   number   of   subgames.
+B.    The   total   number   of   information   sets   is   equal   to   the   number   of   subgames
+C.    The   total   number   of   information   sets   is   less   than   the   number   of   subgames
+D.    The   number   of   information   sets   belonging   to   Player   1   exceeds   the   number   of   subgames
+E.    There   are   no   proper   subgames
+15. Consider   a   game   in   which,   simultaneously,   Player   1   selects   x   ∈ {1,   2,   3}   and    Player   2   selects   y   ∈   {1,   2}.    The   payoﬀs   are   given   as:
+
+Which   of   the   following   statements   is   true? (6 marks) 
+A.    y   =   1   is   a   strictly   dominated   strategy.
+B.    There   is   a   pure-strategy   Nash   equilibrium   in   which   Player    1   selects   x   = 3   and   in   which   Player   2   selects   y   = 2   but   this   equilibrium   is   not   unique.
+C.    There   is   a   pure-strategy   Nash   equilibrium   in   which   Player    1   selects   x   = 2   and   in   which   Player   2   selects   y   =   1   and   there   is   a   mixed   strategy   Nash   equilibrium   in   which   each player   selects   each   action   with   equal   probability.
+D.    There   is   no   pure   strategy   Nash   equilibrium.
+E.    There   is   a   unique   mixed   strategy   Nash   equilibrium   in   which   each   player   selects   each   action   with   equal   probability.
 
 
 
